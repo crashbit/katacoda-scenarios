@@ -1,5 +1,5 @@
 {
-  "title": "Swift Scenario v.0.0.3",
+  "title": "Swift Scenario v.0.0.4",
   "description": "To develop small programs in swift",
   "difficulty": "Beginner",
   "time": "20 minutes",
@@ -48,8 +48,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "untitled.sh",
-      "code": "welcome.sh"
+      "courseData": "welcome.sh",
+      "code": "untitled.sh"
     },
     "finish": {
       "text": "finish.md"

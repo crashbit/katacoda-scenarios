@@ -1,0 +1,1 @@
+echo "Bienvenido al curso de Swift en ubuntu"

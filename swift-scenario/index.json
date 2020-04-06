@@ -1,5 +1,5 @@
 {
-  "title": "Swift Scenario",
+  "title": "Swift Scenario v.0.0.1",
   "description": "To develop small programs in swift",
   "difficulty": "Beginner",
   "time": "20 minutes",
@@ -47,13 +47,16 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "untitled.sh",
+      "code": "welcome.sh"
     },
     "finish": {
       "text": "finish.md"
     }
   },
   "environment": {
+    "hidefinish": true,
     "uilayout": "editor-terminal"
   },
   "backend": {

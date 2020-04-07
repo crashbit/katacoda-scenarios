@@ -1,1 +1,4 @@
-echo "Bienvenido al curso de Swift en ubuntu"
+#!/bin/bash
+
+sudo apt-get update
+sudo apt-get -y install curl

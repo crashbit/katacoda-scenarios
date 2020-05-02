@@ -1,5 +1,5 @@
 {
-  "title": "Swift & Vapor Scenario v.0.0.8.1",
+  "title": "Swift & Vapor Scenario v.0.0.9",
   "description": "Developing apps using swift and vapor",
   "difficulty": "Beginner",
   "time": "20 minutes",
@@ -14,7 +14,7 @@
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Paso 3",
         "text": "step3.md"
       },
       {

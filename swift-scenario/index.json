@@ -1,16 +1,16 @@
 {
-  "title": "Swift & Vapor Scenario v.0.0.7",
+  "title": "Swift & Vapor Scenario v.0.0.8",
   "description": "Developing apps using swift and vapor",
   "difficulty": "Beginner",
   "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Paso 1",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Paso 2",
         "text": "step2.md"
       },
       {
